@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @Ifurts(Ivandro Furtado)
-- 👀 I’m interested in JavaScript, NodeJs, React and NextJs!
-- 🌱 I’m currently learning React, ans improving my skills on webdevelopment
-- 💞️ I’m looking to collaborate on projects that use react alogn NextJs
+- 👀 I’m interested in Python, SQL, JavaScript, NodeJs, React and NextJs!
 - 📫 If You want to reach me send me an email on ivandro.furtado@hotmail.com or send me a message on linkedin https://www.linkedin.com/in/ivandro-furtado-a5a02058
